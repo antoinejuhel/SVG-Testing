@@ -1,0 +1,19 @@
+#box {
+  border-radius: 8px;
+  background: #FF4747;
+  align-items: center;
+  height: 100%;
+  text-align: center;
+  display: inline-block;
+  padding: 15px 20px;
+}
+
+#text-content{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  color: white;
+  margin: 0 auto;
+  display: inline-block;
+  vertical-align: middle;
+}
